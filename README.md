@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kyden-go
+- 👋 Hi, I’m @kydance
 - 👀 I’m interested in C++ and Golang.
 - 🌱 I’m currently learning Golang.
 - 📫 How to reach me kytedance@gmail.com
